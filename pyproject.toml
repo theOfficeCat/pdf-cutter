@@ -10,7 +10,7 @@ dependencies = [
   "img2pdf >= 0.4.4"
 ]
 authors = [
-  {name = "Raul Gilabert", email = "raulgilabert@proton.me"},
+  {name = "Aike Gilabert", email = "aikegilabert@proton.me"},
   {name = "Arnau Granados", email = "arnxxau@proton.me"},
   {name = "Nara Diaz", email = "rdvdev2@gmail.com"}
 ]
